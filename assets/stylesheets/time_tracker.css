@@ -21,6 +21,7 @@
 
 #time-tracker-menu { margin-right: 8px; }
 #time-tracker-menu a { margin-right: 0px; }
+#top-menu #time-tracker-menu a { padding: 0px 1px 0 17px; }
 #time-tracker-menu .icon { padding-left: 20px; }
 
 #time-tracker-admin td.start-date,
